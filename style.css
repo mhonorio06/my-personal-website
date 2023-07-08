@@ -1,3 +1,37 @@
+header {
+   background-color: black;
+}
+nav li{
+   background-color: black;
+   color: white;
+   padding: 3px;
+   display:inline-block;
+   width: 22%;
+   text-align: center;
+}
+nav ul {
+   margin: 0px;
+}
+nav li:hover {
+   background-color: orange;
+   color: black;
+}
+.bg-img {
+   background-image: url(https://media.istockphoto.com/id/470933285/photo/morning-country-road-through-the-foggy-landscape-colorful-countryside.jpg?s=612x612&w=0&k=20&c=INaqKepCL1g0vicZOkvE9dUBjRTmiWyyc3VO4sPfSjE=);
+   min-height: 200px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.container {
+   text-align: right;
+}
+.about {
+   text-align: right;
+   background-image: ;
+}
+
+
 body {
-    background: blue;
+   background: turquoise; 
 }
